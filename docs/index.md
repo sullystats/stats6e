@@ -6,6 +6,7 @@
 
 Welcome to the github for Statistics: Informed Decisions Using Data 6e!
 
+
 ## Welcome to StatPREP. 
 
 This page contains links and other student-facing information for StatPREP activities.
