@@ -1,12 +1,14 @@
-# Statistics: Informed Decisions Using Data 6e
+# Welcome to the Data Site for Statistics: Informed Decisions Using Data 6e by Michael Sullivan, III
 
-![Alternative text](https://www.macalester.edu/~kaplan/kaplan.jpg)
+   ![](cover.png)
 
-<src img = "https://www.macalester.edu/~kaplan/kaplan.jpg" width = '10%'>
+All the data on this site can be retrieved using the URL  `https://sullystats.github.io/stats6e/Data/Chapter_x/*.txt` All data files for this text are coded as Chapter_Section_Problem.txt.  
 
-Welcome to the github for Statistics: Informed Decisions Using Data 6e!
+For example, the data set for Problem 11 in Section 1.3 is named 1_3_11.txt. Therefore, the file has a URL of `https://sullystats.github.io/stats6e/Data/Chapter_1/1_3_11.txt`.
 
+## Loading Data into StatCrunch from Github
 
+From the StatCrunch spreadsheet, select 
 ## Welcome to StatPREP. 
 
 This page contains links and other student-facing information for StatPREP activities.
