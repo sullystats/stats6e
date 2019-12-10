@@ -1,6 +1,6 @@
 # Welcome to the Data Site for Statistics: Informed Decisions Using Data 6e by Michael Sullivan, III
 
-   ![](cover.jpeg)
+   ![](cover.jpg)
 
 All the data on this site can be retrieved using the URL  `https://sullystats.github.io/stats6e/Data/Chapter_x/*.txt` All data files for this text are coded as Chapter_Section_Problem.txt.  
 
