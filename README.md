@@ -1,6 +1,8 @@
-# Setting up a course web site
+# Welcome to the Data Site for Statistics: Informed Decisions Using Data 6e by Michael Sullivan, III
 
-As statistics instructors start using data in their classes, they find that they need to make data files available to students. An excellent way to do that is to put the files on a web site, so that the students can access them with a URL, for instance, `https://dtkaplan.github.io/stat101/test.csv`.
+All the data on this site can be retrieved using the URL  `https://sullystats.github.io/stats6e/Data/Chapter_x/*.txt` All data files for this text are coded as Chapter_Section_Problem.txt.  
+
+For example, the data set for Problem 11 in Section 1.3 is named 1_3_11.txt. Therefore, the file has a URL of `https://sullystats.github.io/stats6e/Data/Chapter_1/1_3_11.txt`.
 
 Many instructors don't have a web server available to them and aren't sure how to set up a web site. The point of this repository is to help you set up your own course web site on which you can place data files, etc. so that your students can easily get to them.
 
