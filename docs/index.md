@@ -8,7 +8,7 @@ For example, the data set for Problem 11 in Section 1.3 is named 1_3_11.txt. The
 
 ## Loading Data into StatCrunch from Github
 
-[Loading Data to StatCrunch](StatCrunch/index.md)
+[Loading Data to StatCrunch](docs/StatCrunch/index)
 
 
 ## Welcome to StatPREP. 
