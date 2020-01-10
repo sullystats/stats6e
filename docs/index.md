@@ -4,7 +4,7 @@
 
 <h2>Loading Data into StatCrunch from Github</h2>
 
-[Loading Data to StatCrunch](sullystats.github.io/stats6e/StatCrunch/)
+[Loading Data to StatCrunch](StatCrunch/)
 
 ## Loading Data into R Studio from Github
 
