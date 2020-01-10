@@ -2,9 +2,16 @@
 
    ![](cover.png)
 
-All the data on this site can be retrieved using the URL  `https://sullystats.github.io/stats6e/Data/Chapter_x/*.txt` All data files for this text are coded as Chapter_Section_Problem.txt.  
+All the data on this site can be retrieved using the URL  
+<ul style="list-style-type:none;">
+   <li>`https://sullystats.github.io/stats6e/Data/Chapter_x/*.txt`</li>
 
-For example, the data set for Problem 11 in Section 1.3 is named 1_3_11.txt. Therefore, the file has a URL of `https://sullystats.github.io/stats6e/Data/Chapter_1/1_3_11.txt`.
+All data files for this text are coded as Chapter_Section_Problem.txt.  
+
+For example, the data set for Problem 11 in Section 1.3 is named 1_3_11.txt. Therefore, the file has a URL of 
+<ul style='list-style-type:none;">
+           <li>
+           `https://sullystats.github.io/stats6e/Data/Chapter_1/1_3_11.txt`</li>
 
 ## Loading Data into StatCrunch from Github
 
