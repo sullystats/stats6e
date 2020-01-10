@@ -6,7 +6,7 @@ Step 1: Select "Import Dataset" from the upper-right window.
 
 Step 2: Select "From Text (readr...)"  Note: You may need to install or update the package. 
 
-![](ImportDataII.png)
+![](ImportData2.png)
 
 
 
