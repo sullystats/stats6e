@@ -8,7 +8,7 @@
 
 ## Loading Data into R Studio from Github
 
-[Loading Data to R Studio](sullystats.github.io/stats6e/R/)
+[Loading Data to R Studio](R/)
 
 ## Tutorials
 
