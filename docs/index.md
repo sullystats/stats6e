@@ -12,7 +12,7 @@ For example, the data set for Problem 11 in Section 1.3 is named 1_3_11.txt. The
 
 ## Loading Data into R Studio from Github
 
-[Loading Data to R Studio](https://
+[Loading Data to R Studio](https://sullystats.github.io/stats6e/R/home.md)
 
 ## Welcome to StatPREP. 
 
