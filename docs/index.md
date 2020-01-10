@@ -2,7 +2,7 @@
 
    ![](cover.png)
 
-## Loading Data into StatCrunch from Github
+<h2>Loading Data into StatCrunch from Github</h2>
 
 [Loading Data to StatCrunch](sullystats.github.io/stats6e/StatCrunch/)
 
