@@ -12,9 +12,14 @@ where
    <li>s represents the section number</li>
    <li>n reprsents the problem number</li>
 </ul>
-
+For problems in the chapter review, use "r" for the section number
+For problems in the chapter test, use "ct" for the section number. 
+<br>  </br>
 For example, to retrieve the data set for Problem 31 in Section 4.1, use the URL
 <br>https://sullystats.github.io/stats6e/Data/Chapter_4/4_1_31.txt</br>
+
+To retrieve the data for Problem 10 in the Chapter 2 Reivew, use the URL
+<br>https://sullystats.github.io/stats6e/Data/Chapter_2/2_r_10.txt</br>
 
 <h3>Loading Data into StatCrunch from Github</h3>
 
