@@ -2,8 +2,6 @@
 
    ![](cover.png)
 
-
-
 ## Loading Data into StatCrunch from Github
 
 [Loading Data to StatCrunch](sullystats.github.io/stats6e/StatCrunch/)
@@ -11,12 +9,6 @@
 ## Loading Data into R Studio from Github
 
 [Loading Data to R Studio](sullystats.github.io/stats6e/R/)
-
-## Welcome to StatPREP. 
-
-This page contains links and other student-facing information for StatPREP activities.
-
-> If you are a student looking for the web page for your own instructor's web site, you're not there. Check with your instructor to make sure that you have the right URL for your instructor's web site.
 
 ## Tutorials
 
