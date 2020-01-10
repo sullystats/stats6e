@@ -8,11 +8,11 @@ For example, the data set for Problem 11 in Section 1.3 is named 1_3_11.txt. The
 
 ## Loading Data into StatCrunch from Github
 
-[Loading Data to StatCrunch](https://sullystats/github/stats6e/StatCrunch/index)
+[Loading Data to StatCrunch](https://sullystats/github/stats6e/StatCrunch/)
 
 ## Loading Data into R Studio from Github
 
-[Loading Data to R Studio](https://sullystats.github.io/stats6e/R/index)
+[Loading Data to R Studio](https://sullystats.github.io/stats6e/R/)
 
 ## Welcome to StatPREP. 
 
