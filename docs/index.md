@@ -2,7 +2,7 @@
 
    ![](cover.png)
 
-<p>The data that accompanies this text can be retrieved using the URL
+<p>Most of the data that accompanies this text can be retrieved using the URL
 <br>https://sullystats.github.io/stats6e/Data/Chapter_#/#_s_n.txt</br>
 </p>
 
