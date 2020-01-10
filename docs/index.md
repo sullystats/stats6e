@@ -6,11 +6,11 @@
 
 ## Loading Data into StatCrunch from Github
 
-[Loading Data to StatCrunch](https://sullystats/github/stats6e/StatCrunch/)
+[Loading Data to StatCrunch](sullystats/github/stats6e/StatCrunch/)
 
 ## Loading Data into R Studio from Github
 
-[Loading Data to R Studio](https://sullystats.github.io/stats6e/R/)
+[Loading Data to R Studio](sullystats.github.io/stats6e/R/)
 
 ## Welcome to StatPREP. 
 
