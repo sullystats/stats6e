@@ -14,8 +14,10 @@
 
      https://sullystats.github.io/stats6e/Data/Chapter_#/#_s_n.txt
      
-where    # is the chapter number
-         s is the section number
-         n is the problem number
-
+where
+<ul>
+     <li># is the chapter number</li>
+     <li>s is the section number</li>
+     <li>n is the problem number</li>
+</ul>
 <b>Step 4:</b>  Click Upload. 
